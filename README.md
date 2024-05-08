@@ -6,4 +6,4 @@
 | <b> Matakuliah   | UTS Pemrograman Mobile 2      |
 
 #Output
-![img](gambar2.jpg)
+![img](gambar1.png)
